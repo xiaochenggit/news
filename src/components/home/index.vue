@@ -1,10 +1,14 @@
 <template>
   <div class="home">
-    <h1>Home</h1>
+    <nav-top></nav-top>
   </div>
 </template>
 
 <script>
+import NavTop from './nav-top';
 export default {
+  components: {
+    NavTop
+  }
 }
 </script>

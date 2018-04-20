@@ -13,6 +13,10 @@ export default {
 <style lang='scss'>
 @import './css/reset.scss';
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', arial, sans-serif;
+}
+.container {
+  width: 1068px;
+  margin: 0 auto;
 }
 </style>
