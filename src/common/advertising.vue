@@ -1,5 +1,7 @@
 <template>
-  <div :class="['advertising', cname]" :style="{'width': width, 'height': height}">
+  <div
+    :class="['advertising', cname]"
+    :style="{'width': width, 'height': height}">
     <img :src="img.src" :alt='img.alt'>
   </div>
 </template>

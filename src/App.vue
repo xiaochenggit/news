@@ -21,10 +21,10 @@ export default {
 }
 @font-face {
   font-family: 'iconfont';  /* project id 637701 */
-  src: url('//at.alicdn.com/t/font_637701_96ywxwrq8fy4aemi.eot');
-  src: url('//at.alicdn.com/t/font_637701_96ywxwrq8fy4aemi.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_637701_96ywxwrq8fy4aemi.woff') format('woff'),
-  url('//at.alicdn.com/t/font_637701_96ywxwrq8fy4aemi.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_637701_96ywxwrq8fy4aemi.svg#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/font_637701_r1l2t3xf346os9k9.eot');
+  src: url('//at.alicdn.com/t/font_637701_r1l2t3xf346os9k9.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_637701_r1l2t3xf346os9k9.woff') format('woff'),
+  url('//at.alicdn.com/t/font_637701_r1l2t3xf346os9k9.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_637701_r1l2t3xf346os9k9.svg#iconfont') format('svg');
 }
 </style>
