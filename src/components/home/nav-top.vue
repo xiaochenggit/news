@@ -9,12 +9,17 @@
       <router-link :to="{name: 'home'}">论坛</router-link>
       <router-link :to="{name: 'home'}">联系我们</router-link>
       <router-link :to="{name: 'home'}">购买系统</router-link>
+      <outher-login></outher-login>
     </div>
   </div>
 </template>
 
 <script>
+import OutherLogin from '../../common/outher-login.vue'
 export default {
+  components: {
+    OutherLogin
+  }
 }
 </script>
 <style scoped lang='scss'>

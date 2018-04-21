@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import NavTop from './nav-top';
+import NavTop from './nav-top'
 export default {
   components: {
     NavTop
