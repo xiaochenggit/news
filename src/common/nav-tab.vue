@@ -66,7 +66,6 @@ export default {
 @import '../css/common.scss';
 .nav {
   .tab.row {
-    padding: 0 20px;
     >li{
       cursor: pointer;
       display: inline-block;
