@@ -12,6 +12,9 @@ export default {
 
 <style lang='scss'>
 @import './css/reset.scss';
+body{
+  padding-bottom: 100px;
+}
 #app {
   font-family: 'Open Sans', arial, sans-serif;
 }

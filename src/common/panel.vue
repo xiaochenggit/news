@@ -133,7 +133,7 @@ export default {
         text-decoration: none;
         display: inline-block;
         max-width: 500px;
-        @include verflowText();
+        @include overflowText();
         &.fade-enter-active, .fade-leave-active {
           transition: all .5s;
         }
