@@ -16,7 +16,6 @@
     </div>
   </div>
 </template>
-
 <script>
 import NavTop from './nav-top'
 import NavAd from './nav-ad'
